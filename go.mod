@@ -1,3 +1,3 @@
-module github.com/WaEman/go-mod-all
+module github.com/WaEman/go-mod-all.git
 
 go 1.20
